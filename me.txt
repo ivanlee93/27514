@@ -1,6 +1,5 @@
 汕头,#genre#
-汕头经济生活,http://156.238.248.80/2099.php?id=1455
-汕头台1,http://stlive.iepose.cn/st.php?id=st1
-汕头台2,http://stlive.iepose.cn/st.php?id=st2
-汕头台3,http://stlive.iepose.cn/st.php?id=fm1025
-汕头台4,http://stlive.iepose.cn/st.php?id=fm1072
+汕头综合,http://stlive.iepose.cn/st.php?id=st1
+汕头经济生活,http://stlive.iepose.cn/st.php?id=st2
+汕头文旅体育,http://stlive.iepose.cn/st.php?id=st3
+
