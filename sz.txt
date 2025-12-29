@@ -1,6 +1,6 @@
 汕头,#genre#
-汕头综合,http://st.infinityfree.me/st.php?id=st1
-汕头经济生活,http://st.infinityfree.me/st.php?id=st2
+汕头综合,http://tv.ilovest.xyz/st.php?id=st1
+汕头经济生活,http://tv.ilovest.xyz//st.php?id=st2
 
 中国央视,#genre#
 CCTV-1 综合 HD,http://tv.ilovest.xyz/Smart.php?id=cctv1
