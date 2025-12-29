@@ -1,5 +1,6 @@
 汕头,#genre#
-汕头综合,http://stlive.iepose.cn/st.php?id=st1
-汕头经济生活,http://stlive.iepose.cn/st.php?id=st2
+汕头综合,http://st.infinityfree.me/st.php?id=st1
+汕头经济生活,http://st.infinityfree.me/st.php?id=st2
+
 
 
