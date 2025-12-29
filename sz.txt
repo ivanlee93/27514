@@ -20,10 +20,6 @@ CCTV-13 新闻频道,https://migu.ilovest.xyz/608807423#http://pc.ilovest.xyz/Sm
 CCTV-14 少儿,https://migu.ilovest.xyz/624878440#http://pc.ilovest.xyz/Smart.php?id=cctv14
 CCTV-15 音乐,https://migu.ilovest.xyz/673168223#http://pc.ilovest.xyz/Smart.php?id=cctv15
 CCTV-17 农业农村,https://migu.ilovest.xyz/673168256#http://pc.ilovest.xyz/Smart.php?id=cctv17
-CGTN,https://migu.ilovest.xyz/609017205#http://pc.ilovest.xyz/Smart.php?id=CGTN
-老故事,https://migu.ilovest.xyz/884121956
-发现之旅,https://migu.ilovest.xyz/624878970
-中学生,https://migu.ilovest.xyz/708869532
 
 中国卫视,#genre#
 广东卫视,https://migu.ilovest.xyz/608831231#http://pc.ilovest.xyz/Smart.php?id=guangdongweishi_twn
