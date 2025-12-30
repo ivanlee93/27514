@@ -2,16 +2,16 @@
 
 # 汕头线路一
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
-ijkhttps://stlive.iepose.cn/st.php?id=st1
+http://stlive.iepose.cn/st.php?id=st1
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
-ijk://stlive.iepose.cn/st.php?id=st2
+http://stlive.iepose.cn/st.php?id=st2
 
 
 # 汕头线路二
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
-ijkhttps://st.ilovest.xyz/st.php?id=st1
+http://st.ilovest.xyz/st.php?id=st1
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
-ijk://st.ilovest.xyz/st.php?id=st2
+http://st.ilovest.xyz/st.php?id=st2
 
 
 # 央视线路一
