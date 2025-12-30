@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mytv-android/myMIGU/refs/heads/main/epg.xml.gz,https://migu.ilovest.xyz/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)YMMddHHmmss}&playbackend=${(e)YMMddHHmmss}"
 
 # 汕头线路一
-#EXTINF:-1 tvg-name="汕头综合" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
+#EXTINF:-1 tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
 http://stlive.iepose.cn/st.php?id=st1
-#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
 http://stlive.iepose.cn/st.php?id=st2
 
 
 # 汕头线路二
-#EXTINF:-1 tvg-name="汕头综合" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
+#EXTINF:-1 tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
 http://st.ilovest.xyz/st.php?id=st1
-#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
 http://st.ilovest.xyz/st.php?id=st2
 
 
@@ -247,39 +247,39 @@ https://migu.ilovest.xyz/961023778
 
 
 # 卫视线路三
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024054803&livepid=600002475&defn=fhd
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024061303&livepid=600002481&defn=fhd
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024054703&livepid=600002520&defn=fhd
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024060703&livepid=600002509&defn=fhd
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024061003&livepid=600002498&defn=fhd
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024061403&livepid=600002516&defn=fhd
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024061603&livepid=600002490&defn=fhd
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024171403&livepid=600002532&defn=fhd
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024171503&livepid=600002493&defn=fhd
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024171603&livepid=600002513&defn=fhd
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2019927003&livepid=600152137&defn=fhd
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2025561203&livepid=600190401&defn=fhd
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2025561703&livepid=600190408&defn=fhd
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2025560803&livepid=600190407&defn=fhd
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2025561303&livepid=600190402&defn=fhd
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2025558003&livepid=600190403&defn=fhd
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2019927403&livepid=600152138&defn=fhd
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
 http://115.190.105.236/live/yspapp.php?cnlid=2024054503&livepid=600002483&defn=fhd
@@ -316,39 +316,39 @@ http://115.190.105.236/live/yspapp.php?cnlid=2024061103&livepid=600002531&defn=f
 
 
 # 卫视线路四
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
 http://119.123.76.67:8086/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
 http://119.123.76.67:8086/hls/79/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
 http://119.123.76.67:8086/hls/101/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
 http://119.123.76.67:8086/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
 http://119.123.76.67:8086/hls/248/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
 http://119.123.76.67:8086/hls/82/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
 http://119.123.76.67:8086/hls/143/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
 http://119.123.76.67:8086/hls/137/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
 http://119.123.76.67:8086/hls/144/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
 http://119.123.76.67:8086/hls/133/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
 http://119.123.76.67:8086/hls/140/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
 http://119.123.76.67:8086/hls/147/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
 http://119.123.76.67:8086/hls/157/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
 http://119.123.76.67:8086/hls/145/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
 http://119.123.76.67:8086/hls/154/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
 http://119.123.76.67:8086/hls/152/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
 http://119.123.76.67:8086/hls/153/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
 http://119.123.76.67:8086/hls/129/index.m3u8
