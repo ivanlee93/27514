@@ -431,7 +431,7 @@ https://cdn8.163189.xyz/163189/lhox
 https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",龙华戏剧
 https://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",爱奇艺
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
 
 
@@ -440,14 +440,14 @@ https://o11.163189.xyz/stream/live/iqiyi/
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",明珠台
 https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB Plus.png" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",TVBPlus
 https://cdn6.101.qzz.io/163189/tvbp
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB Plus.png" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",TVBPlus
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",无线新闻台
-https://cdn6.101.qzz.io/163189/wxxw
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",NOW新闻
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" group-title="香港" http-user-agent="MGPlayer4Android/v9.49.0.3.28",凤凰中文台
