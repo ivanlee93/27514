@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/mymigu/raw/main/epg.xml.gz,https://migu.ilovest.xyz/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)YMMddHHmmss}&playbackend=${(e)YMMddHHmmss}"
 
 # 汕头线路一
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头",汕头综合
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
 http://stlive.iepose.cn/st.php?id=st1
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
 http://stlive.iepose.cn/st.php?id=st2
 
 
 # 汕头线路二
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头",汕头综合
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
 http://st.ilovest.xyz/st.php?id=st1
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头" http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
 http://st.ilovest.xyz/st.php?id=st2
 
 
