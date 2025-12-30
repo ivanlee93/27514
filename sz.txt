@@ -48,7 +48,7 @@ http://119.123.76.67:8086/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
 http://119.123.76.67:8086/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视",CCTV16奥林匹克
-http://119.123.76.67:8086/hls/16/index.m3u8
+http://119.123.76.67:8086/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
 http://hmfs.f3322.net:3388/hls/37/index.m3u8
 
