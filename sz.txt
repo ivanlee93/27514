@@ -1,231 +1,419 @@
-广东汕头,#genre#
-汕头综合,http://stlive.iepose.cn/st.php?id=st1#http://pc.ilovest.xyz/st.php?id=st1
-汕头经济生活,http://stlive.iepose.cn/st.php?id=st2#http://pc.ilovest.xyz/st.php?id=st2
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mytv-android/myMIGU/refs/heads/main/epg.xml.gz,https://migu.ilovest.xyz/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)YMMddHHmmss}&playbackend=${(e)YMMddHHmmss}"
 
-中国央视,#genre#
-CCTV-1 综合,https://migu.ilovest.xyz/608807420#http://pc.ilovest.xyz/Smart.php?id=cctv1
-CCTV-2 财经,https://migu.ilovest.xyz/631780532#http://pc.ilovest.xyz/Smart.php?id=cctv2
-CCTV-3 综艺,https://migu.ilovest.xyz/624878271#http://pc.ilovest.xyz/Smart.php?id=cctv3
-CCTV-4 中文国际,https://migu.ilovest.xyz/631780421#http://pc.ilovest.xyz/Smart.php?id=cctv4
-CCTV-5 体育频道,https://migu.ilovest.xyz/641886683#http://pc.ilovest.xyz/Smart.php?id=cctv5
-CCTV-5+ 体育赛事,https://migu.ilovest.xyz/641886773#http://pc.ilovest.xyz/Smart.php?id=cctv5plus
-CCTV-6 电影频道,https://migu.ilovest.xyz/624878396#http://pc.ilovest.xyz/Smart.php?id=cctv6
-CCTV-7 军事农业,https://migu.ilovest.xyz/673168121#http://pc.ilovest.xyz/Smart.php?id=cctv7
-CCTV-8 电视剧,https://migu.ilovest.xyz/624878356#http://pc.ilovest.xyz/Smart.php?id=cctv8hd
-CCTV-9 记录,https://migu.ilovest.xyz/673168140#http://pc.ilovest.xyz/Smart.php?id=cctv9hd
-CCTV-10 科教,https://migu.ilovest.xyz/624878405#http://pc.ilovest.xyz/Smart.php?id=cctv10hd
-CCTV-11 戏曲,https://migu.ilovest.xyz/667987558#http://pc.ilovest.xyz/Smart.php?id=cctv11
-CCTV-12 社会与法,https://migu.ilovest.xyz/673168185#http://pc.ilovest.xyz/Smart.php?id=cctv12
-CCTV-13 新闻频道,https://migu.ilovest.xyz/608807423#http://pc.ilovest.xyz/Smart.php?id=cctv13
-CCTV-14 少儿,https://migu.ilovest.xyz/624878440#http://pc.ilovest.xyz/Smart.php?id=cctv14
-CCTV-15 音乐,https://migu.ilovest.xyz/673168223#http://pc.ilovest.xyz/Smart.php?id=cctv15
-CCTV-17 农业农村,https://migu.ilovest.xyz/673168256#http://pc.ilovest.xyz/Smart.php?id=cctv17
+# 汕头线路一
+#EXTINF:-1 tvg-name="汕头综合" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
+http://stlive.iepose.cn/st.php?id=st1
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
+http://stlive.iepose.cn/st.php?id=st2
 
-中国卫视,#genre#
-广东卫视,https://migu.ilovest.xyz/608831231#http://pc.ilovest.xyz/Smart.php?id=guangdongweishi_twn
-北京卫视,https://migu.ilovest.xyz/630287636#http://pc.ilovest.xyz/Smart.php?id=beijing
-江苏卫视,https://migu.ilovest.xyz/623899368#http://pc.ilovest.xyz/Smart.php?id=jiangsu_twn
-东南卫视,https://migu.ilovest.xyz/849116810#http://pc.ilovest.xyz/Smart.php?id=fujian
-湖北卫视,https://migu.ilovest.xyz/947472496#http://pc.ilovest.xyz/Smart.php?id=hubei
-东方卫视,https://migu.ilovest.xyz/651632648#http://pc.ilovest.xyz/Smart.php?id=dongfangweishi_twn
-江西卫视,https://migu.ilovest.xyz/783847495
-河南卫视,https://migu.ilovest.xyz/790187291
-陕西卫视,https://migu.ilovest.xyz/738910838
-大湾区卫视,https://migu.ilovest.xyz/608917627
-吉林卫视,https://migu.ilovest.xyz/947472500
-青海卫视,https://migu.ilovest.xyz/947472506
-海南卫视,https://migu.ilovest.xyz/947472502
-海峡卫视,https://migu.ilovest.xyz/849119120
-中国农林卫视,https://migu.ilovest.xyz/956904896
-兵团卫视,https://migu.ilovest.xyz/956923145
-辽宁卫视,https://migu.ilovest.xyz/630291707
-宁夏卫视,https://migu.ilovest.xyz/738910535
-重庆卫视,https://migu.ilovest.xyz/738910914
-三沙卫视,https://migu.ilovest.xyz/961023778
-湖南卫视,http://pc.ilovest.xyz/Smart.php?id=hunan_twn
-浙江卫视,http://pc.ilovest.xyz/Smart.php?id=zhejiang_twn
-深圳卫视,http://pc.ilovest.xyz/Smart.php?id=shenzhen
-广东南方卫视,http://pc.ilovest.xyz/Smart.php?id=nanfang_twn
-珠江台,http://pc.ilovest.xyz/Smart.php?id=zhujiang
-广西卫视,http://pc.ilovest.xyz/Smart.php?id=guangxi
-四川卫视,http://pc.ilovest.xyz/Smart.php?id=sichuan_twn
 
-影视频道,#genre#
-经典香港电影,https://migu.ilovest.xyz/625703337
-抗战经典影片,https://migu.ilovest.xyz/617432318
-新片放映厅,https://migu.ilovest.xyz/619495952
-CHC影迷电影,https://migu.ilovest.xyz/952383261
-CHC动作电影,https://migu.ilovest.xyz/644368714
-CHC家庭影院,https://migu.ilovest.xyz/644368373
-和美乡途轮播台,https://migu.ilovest.xyz/713591450
-南方影视,https://migu.ilovest.xyz/614961829
+# 汕头线路二
+#EXTINF:-1 tvg-name="汕头综合" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头综合
+http://st.ilovest.xyz/st.php?id=st1
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="汕头 http-user-agent="MGPlayer4Android/v9.49.0.3.28",汕头经济生活
+http://st.ilovest.xyz/st.php?id=st2
 
-香港频道,#genre#
-翡翠台,http://pc.ilovest.xyz/Smart.php?id=jade_twn
-翡翠台 backup,http://pc.ilovest.xyz/Smart.php?id=Jade_xue
-iNews 新闻台,http://pc.ilovest.xyz/Smart.php?id=inews_twn
-J 2,http://pc.ilovest.xyz/Smart.php?id=j2_twn
-珍珠台,http://pc.ilovest.xyz/Smart.php?id=pearl_twn
-凤凰香港,http://pc.ilovest.xyz/Smart.php?id=hkphoenix_twn
-HOY资讯台,http://pc.ilovest.xyz/Smart.php?id=hoycaijing_twn
-RHK 31,http://pc.ilovest.xyz/Smart.php?id=rhk31_twn
-VIUTV1,http://pc.ilovest.xyz/Smart.php?id=viu1_twn
-RHK 32,http://pc.ilovest.xyz/Smart.php?id=rhk32_twn
-凤凰卫视,http://pc.ilovest.xyz/Smart.php?id=phoenixtv_hd
-凤凰资讯,http://pc.ilovest.xyz/Smart.php?id=phoenixinfo_hd
-Viu6,http://pc.ilovest.xyz/Smart.php?id=viusix_twn
 
-台湾频道,#genre#
-TVBS News 新闻台,http://pc.ilovest.xyz/Smart.php?id=tvbs_n
-TVBS 欢乐台 （备份）,http://pc.ilovest.xyz/Smart.php?id=tvbshuanle_twn
-TVBS HD,http://pc.ilovest.xyz/Smart.php?id=tvbs
-中天新闻 HD,http://pc.ilovest.xyz/Smart.php?id=ctinews
-中天娱乐 CTI Entertaiment,http://pc.ilovest.xyz/Smart.php?id=ctient
-中天综合 CTI Metro,http://pc.ilovest.xyz/Smart.php?id=ctizhonghe
-中天亚洲台,http://pc.ilovest.xyz/Smart.php?id=ctiasia_twn
-台视 TTV HD,http://pc.ilovest.xyz/Smart.php?id=ttv_taiwan
-台视新闻台,http://pc.ilovest.xyz/Smart.php?id=ttvnews_twn
-台视综合台,http://pc.ilovest.xyz/Smart.php?id=ttvzhonghe
-中视 HD,http://pc.ilovest.xyz/Smart.php?id=zhongshihd_twn
-中视新闻台,http://pc.ilovest.xyz/Smart.php?id=zhongshinews_twn
-民视 HD,http://pc.ilovest.xyz/Smart.php?id=ftvhd_taiwan
-民视新闻台 FTV News,http://pc.ilovest.xyz/Smart.php?id=ftvnew_taiwan
-民视台湾台,http://pc.ilovest.xyz/Smart.php?id=ftvtaiwan_twn
-华视 CTS HD,http://pc.ilovest.xyz/Smart.php?id=ctshd_twn
-公视 CTV,http://pc.ilovest.xyz/Smart.php?id=ctv18_twn
-八大第一 GTV First,http://pc.ilovest.xyz/Smart.php?id=badafirst
-八大综合 GTV Metro,http://pc.ilovest.xyz/Smart.php?id=badazhonghe
-八大戏剧 GTV Drama,http://pc.ilovest.xyz/Smart.php?id=badadrama
-八大娱乐 GTV Entertainment,http://pc.ilovest.xyz/Smart.php?id=badaentertain
-HBO_HD,http://pc.ilovest.xyz/Smart.php?id=hbohd_twn
-HBO_HITS,http://pc.ilovest.xyz/Smart.php?id=hbohit_twn
-Hollywood Movies,http://pc.ilovest.xyz/Smart.php?id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,http://pc.ilovest.xyz/Smart.php?id=sanlitaiwan
-三立戏剧台,http://pc.ilovest.xyz/Smart.php?id=sanlixiju_twn
-三立综合 Sanli Metro,http://pc.ilovest.xyz/Smart.php?id=sanlizhonghe
-三立都会台,http://pc.ilovest.xyz/Smart.php?id=sanlidouhui
-东森新闻 ETTV News,http://pc.ilovest.xyz/Smart.php?id=ettvnews
-CINEMAX,http://pc.ilovest.xyz/Smart.php?id=cinemax_twn
-东森综合 ETTV Metro,http://pc.ilovest.xyz/Smart.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,http://pc.ilovest.xyz/Smart.php?id=ettvdrama
-东森超视,http://pc.ilovest.xyz/Smart.php?id=ettvsuper
-东森财经新闻 ETTV Business,http://pc.ilovest.xyz/Smart.php?id=ettvcaijing_twn
-寰宇财经,http://pc.ilovest.xyz/Smart.php?id=huanyutaiwan_twn
-寰宇新闻台,http://pc.ilovest.xyz/Smart.php?id=huanyuxinwen_twn
-公视2,http://pc.ilovest.xyz/Smart.php?id=ctv2_twn
-大爱1台,http://pc.ilovest.xyz/Smart.php?id=daai_twn
-非凡新闻台,http://pc.ilovest.xyz/Smart.php?id=feifannews_twn
-龙华戏剧 Lunghua Drama,http://pc.ilovest.xyz/Smart.php?id=lunghuaxiju_twn
-龙华经典台,http://pc.ilovest.xyz/Smart.php?id=lunghuajingdian_twn
-龙华偶像,http://pc.ilovest.xyz/Smart.php?id=lunghuaidol_twn
-AXN Taiwan,http://pc.ilovest.xyz/Smart.php?id=axn_twn
-靖天国际台,http://pc.ilovest.xyz/Smart.php?id=jingtianintl_twn
-年代新闻,http://pc.ilovest.xyz/Smart.php?id=niandainews_twn
-纬来日本台,http://pc.ilovest.xyz/Smart.php?id=videolandjapan
-纬来电影台,http://pc.ilovest.xyz/Smart.php?id=videolandmovie
-纬来体育台,http://pc.ilovest.xyz/Smart.php?id=videolandsport
-纬来综合台,http://pc.ilovest.xyz/Smart.php?id=videolandzonghe
-纬来育乐,http://pc.ilovest.xyz/Smart.php?id=videolandyule
-纬来精彩,http://pc.ilovest.xyz/Smart.php?id=videolandspecial_twn
-好消息 2,http://pc.ilovest.xyz/Smart.php?id=good2_twn
-大爱2台,http://pc.ilovest.xyz/Smart.php?id=daai2_twn
-亚洲美食,http://pc.ilovest.xyz/Smart.php?id=afc_twn
-美食星球,http://pc.ilovest.xyz/Smart.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,http://pc.ilovest.xyz/Smart.php?id=tlc_twn
-东森电影 ETTV Movie,http://pc.ilovest.xyz/Smart.php?id=ettvmovie
-阿里郎 Arirang,http://pc.ilovest.xyz/Smart.php?id=arirang_twn
-博斯运动 1,http://pc.ilovest.xyz/Smart.php?id=bosisport1_twn
-博斯运动 2,http://pc.ilovest.xyz/Smart.php?id=bosisport2_twn
-博斯高球2 HD,http://pc.ilovest.xyz/Smart.php?id=bosigolf2_twn
-博斯网球 HD,http://pc.ilovest.xyz/Smart.php?id=bositennis_twn
-东森洋片 ETTV Western,http://pc.ilovest.xyz/Smart.php?id=ettvwestern
-龙华洋片 Lunghua Western,http://pc.ilovest.xyz/Smart.php?id=lunghuawestern_twn
-博斯无限,http://pc.ilovest.xyz/Smart.php?id=bosiunlimited_twn
-MTV Live,http://pc.ilovest.xyz/Smart.php?id=mtvhd_twn
-龙详时代,http://pc.ilovest.xyz/Smart.php?id=lungxiangtime_twn
-EYETV 旅游,http://pc.ilovest.xyz/Smart.php?id=eyetvtravel_twn
-靖天卡通台,http://pc.ilovest.xyz/Smart.php?id=jingtiancartoon_twn
-EYETV 戏剧,http://pc.ilovest.xyz/Smart.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,http://pc.ilovest.xyz/Smart.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,http://pc.ilovest.xyz/Smart.php?id=yoyo_twn
-卫视电影台,http://pc.ilovest.xyz/Smart.php?id=weishimovie_twn
-美亚电影,http://pc.ilovest.xyz/Smart.php?id=meiyamovie_twn
-爱尔达影剧台,http://pc.ilovest.xyz/Smart.php?id=eltayingju_twn
-爱尔达综合台,http://pc.ilovest.xyz/Smart.php?id=eltazonghe_twn
-星卫电影,http://pc.ilovest.xyz/Smart.php?id=xingwei_movie
-AFC 亚洲旅游台,http://pc.ilovest.xyz/Smart.php?id=asiatravel_twn
+# 央视线路一
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV1综合
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV1综合
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV2财经
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV2财经
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV3综艺
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV3综艺
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV4中文国际
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV4中文国际
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV5体育
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5体育
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV5+体育赛事
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV5+体育赛事
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV6电影
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV6电影
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV7国防军事
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV7国防军事
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV8电视剧
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV8电视剧
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV9纪录
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV9纪录
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV10科教
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV10科教
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV11戏曲
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV11戏曲
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV12社会与法
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV12社会与法
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV13新闻
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV13新闻
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV14少儿
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV14少儿
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV15音乐
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV15音乐
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV17农业农村
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CCTV17农业农村
 
-体育频道,#genre#
-Astro Premier League 1,http://pc.ilovest.xyz/Smart.php?id=go_assp1
-Astro EPL 1 backup,http://pc.ilovest.xyz/Smart.php?id=go_assp1x
-Astro Premier League 2,http://pc.ilovest.xyz/Smart.php?id=go_assp2
-Astro Grandstand,http://pc.ilovest.xyz/Smart.php?id=go_assp3
-Astro Football,http://pc.ilovest.xyz/Smart.php?id=go_assp4
-Astro Sports Plus,http://pc.ilovest.xyz/Smart.php?id=go_sportsplus
-Astro Badminton 1,http://pc.ilovest.xyz/Smart.php?id=go_badminton1
-Astro Badminton 2,http://pc.ilovest.xyz/Smart.php?id=go_badminton2
-Astro W-Sports,http://pc.ilovest.xyz/Smart.php?id=go_assp5
-Supersports 1,http://pc.ilovest.xyz/Smart.php?id=Assp1
-Supersports 2,http://pc.ilovest.xyz/Smart.php?id=Assp2
-Supersports 3,http://pc.ilovest.xyz/Smart.php?id=Assp3
-Supersports 4,http://pc.ilovest.xyz/Smart.php?id=Assp4
-WWE,http://pc.ilovest.xyz/Smart.php?id=Wwe
-Fight Sports,http://pc.ilovest.xyz/Smart.php?id=Fs
-NBA TV,http://pc.ilovest.xyz/Smart.php?id=Nba
-Astro Cricket,http://pc.ilovest.xyz/Smart.php?id=Acricket
-Astro Golf,http://pc.ilovest.xyz/Smart.php?id=Agolf
-Tnt Sports 1,http://pc.ilovest.xyz/Smart.php?id=6fac0aaead
-TNT Sports 2,http://pc.ilovest.xyz/Smart.php?id=d9a76a79cc
-TNT Sports 3,http://pc.ilovest.xyz/Smart.php?id=5fea4d73db
-TNT Sports 4,http://pc.ilovest.xyz/Smart.php?id=tntsport4
-Sony Ten 1,http://pc.ilovest.xyz/Smart.php?id=ten1_raj
-Sony Ten 2,http://pc.ilovest.xyz/Smart.php?id=ten2_raj
-Sony Ten 3,http://pc.ilovest.xyz/Smart.php?id=ten3_raj
-SPOTV 1 HD,http://pc.ilovest.xyz/Smart.php?id=go_spotv
-SPO TV 2,http://pc.ilovest.xyz/Smart.php?id=go_spotv2
-Skysports F1,http://pc.ilovest.xyz/Smart.php?id=tiankongf1
-Skysports Cricket,http://pc.ilovest.xyz/Smart.php?id=tiankongcricket
-Skysports EPL,http://pc.ilovest.xyz/Smart.php?id=tiankongepl
-Skysports Main Event,http://pc.ilovest.xyz/Smart.php?id=tiankongmain
-Skysports News,http://pc.ilovest.xyz/Smart.php?id=tiankongnews
-Skysports Mix,http://pc.ilovest.xyz/Smart.php?id=tiankongmix
-爱尔达体育2台,http://pc.ilovest.xyz/Smart.php?id=eltasport2_twn
-爱尔达体育3台,http://pc.ilovest.xyz/Smart.php?id=eltasport3_twn
-Rugby Pass TV,http://pc.ilovest.xyz/Smart.php?id=Rugbypasstv
-RTM Sports HD,http://pc.ilovest.xyz/Smart.php?id=Rtmsport
-Arena,http://pc.ilovest.xyz/Smart.php?id=Arena
-Arena 2,http://pc.ilovest.xyz/Smart.php?id=Arena2
-BolaArena 1,http://pc.ilovest.xyz/Smart.php?id=Bolaarena1
-BolaArena 2,http://pc.ilovest.xyz/Smart.php?id=Bolaarena2
-Astro Beinsports 1,http://pc.ilovest.xyz/Smart.php?id=Astrobein1
-Astro Beinsports 2,http://pc.ilovest.xyz/Smart.php?id=Astrobein2
-Astro Beinsports 3,http://pc.ilovest.xyz/Smart.php?id=Astrobein3
 
-纪录频道,#genre#
-Natgeo_HD,http://pc.ilovest.xyz/Smart.php?id=natgeohd_twn
-NatGeo_Wild HD,http://pc.ilovest.xyz/Smart.php?id=natgeowild_twn
-Animal_Planet,http://pc.ilovest.xyz/Smart.php?id=animalplanet_twn
-Discovery Asia,http://pc.ilovest.xyz/Smart.php?id=discoverytwn_twn
-CI,http://pc.ilovest.xyz/Smart.php?id=ci_twn
-Discovery HD,http://pc.ilovest.xyz/Smart.php?id=discoveryhd_twn
-NatGeo HD,http://pc.ilovest.xyz/Smart.php?id=Natgeo
-Fashion TV,http://pc.ilovest.xyz/Smart.php?id=fashiontv_twn
-History,http://pc.ilovest.xyz/Smart.php?id=History
-BBC Earth HD,http://pc.ilovest.xyz/Smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://pc.ilovest.xyz/Smart.php?id=bbclifestyle_twn
-NatGeo Wild HD,http://pc.ilovest.xyz/Smart.php?id=Natgeowild
-Animal Planet (Eng),http://pc.ilovest.xyz/Smart.php?id=AnimalPlanet
-TLC,http://pc.ilovest.xyz/Smart.php?id=Tlc
-Foodnetwork Hd,http://pc.ilovest.xyz/Smart.php?id=Foodnetwork
-HGTV,http://pc.ilovest.xyz/Smart.php?id=HGTV
+# 央视线路二
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
+https://migu.ilovest.xyz/608807420
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
+https://migu.ilovest.xyz/631780532
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3综艺
+https://migu.ilovest.xyz/624878271
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际
+https://migu.ilovest.xyz/631780421
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5体育
+https://migu.ilovest.xyz/641886683
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+体育赛事
+https://migu.ilovest.xyz/641886773
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6电影
+https://migu.ilovest.xyz/624878396
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7国防军事
+https://migu.ilovest.xyz/673168121
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8电视剧
+https://migu.ilovest.xyz/624878356
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9纪录
+https://migu.ilovest.xyz/673168140
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10科教
+https://migu.ilovest.xyz/624878405
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11戏曲
+https://migu.ilovest.xyz/667987558
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12社会与法
+https://migu.ilovest.xyz/673168185
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13新闻
+https://migu.ilovest.xyz/608807423
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14少儿
+https://migu.ilovest.xyz/624878440
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
+https://migu.ilovest.xyz/673168223
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
+https://migu.ilovest.xyz/673168256
 
-儿童频道,#genre#
-Baby TV Eng,http://pc.ilovest.xyz/Smart.php?id=Babytv
-CBeebies,http://pc.ilovest.xyz/Smart.php?id=Cbeebies
-Kids TV,http://pc.ilovest.xyz/Smart.php?id=KidsTV
-Momo TV,http://pc.ilovest.xyz/Smart.php?id=momo1_twn
-Baby TV,http://pc.ilovest.xyz/Smart.php?id=babytv_twn
-MiaoMi,http://pc.ilovest.xyz/Smart.php?id=MiaoMi
-Cartoon Network,http://pc.ilovest.xyz/Smart.php?id=Cn
-Nickelodeon,http://pc.ilovest.xyz/Smart.php?id=Nickelodeon
-Nick Jr,http://pc.ilovest.xyz/Smart.php?id=Nickjr
+
+# 央视线路三
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
+http://115.190.105.236/live/yspapp.php?cnlid=2024078201&livepid=600001859&defn=fhd
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
+http://115.190.105.236/live/yspapp.php?cnlid=2024075401&livepid=600001800&defn=fhd
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3综艺
+http://115.190.105.236/live/yspapp.php?cnlid=2024068501&livepid=600001801&defn=fhd
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际
+http://115.190.105.236/live/yspapp.php?cnlid=2024078301&livepid=600001814&defn=fhd
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5体育
+http://115.190.105.236/live/yspapp.php?cnlid=2024078401&livepid=600001818&defn=fhd
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+体育赛事
+http://115.190.105.236/live/yspapp.php?cnlid=2024078001&livepid=600001817&defn=fhd
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6电影
+http://115.190.105.236/live/yspapp.php?cnlid=2013693901&livepid=600108442&defn=fhd
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7国防军事
+http://115.190.105.236/live/yspapp.php?cnlid=2024072001&livepid=600004092&defn=fhd
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8电视剧
+http://115.190.105.236/live/yspapp.php?cnlid=2024078501&livepid=600001803&defn=fhd
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9纪录
+http://115.190.105.236/live/yspapp.php?cnlid=2024078601&livepid=600004078&defn=fhd
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10科教
+http://115.190.105.236/live/yspapp.php?cnlid=2024078701&livepid=600001805&defn=fhd
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11戏曲
+http://115.190.105.236/live/yspapp.php?cnlid=2027248701&livepid=600001806&defn=fhd
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12社会与法
+http://115.190.105.236/live/yspapp.php?cnlid=2027248801&livepid=600001807&defn=fhd
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13新闻
+http://115.190.105.236/live/yspapp.php?cnlid=2024079001&livepid=600001811&defn=fhd
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14少儿
+http://115.190.105.236/live/yspapp.php?cnlid=2027248901&livepid=600001809&defn=fhd
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
+http://115.190.105.236/live/yspapp.php?cnlid=2027249001&livepid=600001815&defn=fhd
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
+http://115.190.105.236/live/yspapp.php?cnlid=2027249401&livepid=600001810&defn=fhd
+
+
+# 央视线路四
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
+http://119.123.76.67:8086/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
+http://119.123.76.67:8086/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3综艺
+http://119.123.76.67:8086/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际
+http://119.123.76.67:8086/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5体育
+http://119.123.76.67:8086/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+体育赛事
+http://119.123.76.67:8086/hls/252/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6电影
+http://119.123.76.67:8086/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7国防军事
+http://119.123.76.67:8086/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8电视剧
+http://119.123.76.67:8086/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="央视",CCTV9纪录
+http://119.123.76.67:8086/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10科教
+http://119.123.76.67:8086/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11戏曲
+http://119.123.76.67:8086/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12社会与法
+http://119.123.76.67:8086/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13新闻
+http://119.123.76.67:8086/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14少儿
+http://119.123.76.67:8086/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
+http://119.123.76.67:8086/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
+http://hmfs.f3322.net:3388/hls/37/index.m3u8
+
+
+# 卫视线路一
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=东方卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江苏卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=江苏卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广东卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=广东卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",北京卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=北京卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=江西卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=河南卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",陕西卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=陕西卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",大湾区卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=大湾区卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖北卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=湖北卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",吉林卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=吉林卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",青海卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=青海卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海南卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=海南卫视
+#EXTINF:-1 tvg-id="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海峡卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=海峡卫视
+#EXTINF:-1 tvg-id="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",中国农林卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=中国农林卫视
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",兵团卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=兵团卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",辽宁卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=辽宁卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",宁夏卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=宁夏卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",重庆卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=重庆卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",三沙卫视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=三沙卫视
+
+
+# 卫视线路二
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
+https://migu.ilovest.xyz/651632648
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江苏卫视
+https://migu.ilovest.xyz/623899368
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广东卫视
+https://migu.ilovest.xyz/608831231
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",北京卫视
+https://migu.ilovest.xyz/630287636
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江西卫视
+https://migu.ilovest.xyz/783847495
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河南卫视
+https://migu.ilovest.xyz/790187291
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",陕西卫视
+https://migu.ilovest.xyz/738910838
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",大湾区卫视
+https://migu.ilovest.xyz/608917627
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖北卫视
+https://migu.ilovest.xyz/947472496
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",吉林卫视
+https://migu.ilovest.xyz/947472500
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",青海卫视
+https://migu.ilovest.xyz/947472506
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东南卫视
+https://migu.ilovest.xyz/849116810
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海南卫视
+https://migu.ilovest.xyz/947472502
+#EXTINF:-1 tvg-id="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海峡卫视
+https://migu.ilovest.xyz/849119120
+#EXTINF:-1 tvg-id="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",中国农林卫视
+https://migu.ilovest.xyz/956904896
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",兵团卫视
+https://migu.ilovest.xyz/956923145
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",辽宁卫视
+https://migu.ilovest.xyz/630291707
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",宁夏卫视
+https://migu.ilovest.xyz/738910535
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",重庆卫视
+https://migu.ilovest.xyz/738910914
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",三沙卫视
+https://migu.ilovest.xyz/961023778
+
+
+# 卫视线路三
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024054803&livepid=600002475&defn=fhd
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061303&livepid=600002481&defn=fhd
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024054703&livepid=600002520&defn=fhd
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024060703&livepid=600002509&defn=fhd
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061003&livepid=600002498&defn=fhd
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061403&livepid=600002516&defn=fhd
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061603&livepid=600002490&defn=fhd
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171403&livepid=600002532&defn=fhd
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171503&livepid=600002493&defn=fhd
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171603&livepid=600002513&defn=fhd
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2019927003&livepid=600152137&defn=fhd
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025561203&livepid=600190401&defn=fhd
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025561703&livepid=600190408&defn=fhd
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025560803&livepid=600190407&defn=fhd
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025561303&livepid=600190402&defn=fhd
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025558003&livepid=600190403&defn=fhd
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2019927403&livepid=600152138&defn=fhd
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024054503&livepid=600002483&defn=fhd
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江苏卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171103&livepid=600002521&defn=fhd
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广东卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024060903&livepid=600002485&defn=fhd
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",北京卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024052703&livepid=600002309&defn=fhd
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江西卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061703&livepid=600002503&defn=fhd
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河南卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024059703&livepid=600002525&defn=fhd
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",陕西卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025561103&livepid=600190400&defn=fhd
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖北卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171203&livepid=600002508&defn=fhd
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",吉林卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025561503&livepid=600190405&defn=fhd
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",青海卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025559103&livepid=600190406&defn=fhd
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东南卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061503&livepid=600002484&defn=fhd
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海南卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024055603&livepid=600002506&defn=fhd
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",兵团卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025990501&livepid=600193252&defn=fhd
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",辽宁卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024171303&livepid=600002505&defn=fhd
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",宁夏卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2025608503&livepid=600190737&defn=fhd
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",重庆卫视
+http://115.190.105.236/live/yspapp.php?cnlid=2024061103&livepid=600002531&defn=fhd
+
+
+# 卫视线路四
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖南卫视
+http://119.123.76.67:8086/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",深圳卫视
+http://119.123.76.67:8086/hls/79/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",浙江卫视
+http://119.123.76.67:8086/hls/101/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",广西卫视
+http://119.123.76.67:8086/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",黑龙江卫视
+http://119.123.76.67:8086/hls/248/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",四川卫视
+http://119.123.76.67:8086/hls/82/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",贵州卫视
+http://119.123.76.67:8086/hls/143/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",安徽卫视
+http://119.123.76.67:8086/hls/137/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",河北卫视
+http://119.123.76.67:8086/hls/144/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山东卫视
+http://119.123.76.67:8086/hls/133/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",天津卫视
+http://119.123.76.67:8086/hls/140/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",内蒙古卫视
+http://119.123.76.67:8086/hls/147/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",甘肃卫视
+http://119.123.76.67:8086/hls/157/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",山西卫视
+http://119.123.76.67:8086/hls/145/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",云南卫视
+http://119.123.76.67:8086/hls/154/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",西藏卫视
+http://119.123.76.67:8086/hls/152/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视 http-user-agent="MGPlayer4Android/v9.49.0.3.28",新疆卫视
+http://119.123.76.67:8086/hls/153/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东方卫视
+http://119.123.76.67:8086/hls/129/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江苏卫视
+http://119.123.76.67:8086/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",广东卫视
+http://119.123.76.67:8086/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",北京卫视
+http://119.123.76.67:8086/hls/131/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",江西卫视
+http://119.123.76.67:8086/hls/132/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",河南卫视
+http://119.123.76.67:8086/hls/52/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",陕西卫视
+http://119.123.76.67:8086/hls/146/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",湖北卫视
+http://119.123.76.67:8086/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",吉林卫视
+http://119.123.76.67:8086/hls/150/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",东南卫视
+http://119.123.76.67:8086/hls/161/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",海南卫视
+http://119.123.76.67:8086/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",辽宁卫视
+http://119.123.76.67:8086/hls/251/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",宁夏卫视
+http://119.123.76.67:8086/hls/155/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="卫视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",重庆卫视
+http://119.123.76.67:8086/hls/100/index.m3u8
+
+
+
+# 影视线路一
+#EXTINF:-1 tvg-id="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",经典香港电影
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=经典香港电影
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",抗战经典影片
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=抗战经典影片
+#EXTINF:-1 tvg-id="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",新片放映厅
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=新片放映厅
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC影迷电影
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC影迷电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC动作电影
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC动作电影
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC家庭影院
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC家庭影院
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",和美乡途轮播台
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=和美乡途轮播台
+#EXTINF:-1 tvg-id="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",南方影视
+javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=南方影视
+
+
+# 影视线路二
+#EXTINF:-1 tvg-id="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",经典香港电影
+https://migu.ilovest.xyz/625703337
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",抗战经典影片
+https://migu.ilovest.xyz/617432318
+#EXTINF:-1 tvg-id="新片放映厅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",新片放映厅
+https://migu.ilovest.xyz/619495952
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC影迷电影
+https://migu.ilovest.xyz/952383261
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC动作电影
+https://migu.ilovest.xyz/644368714
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CHC家庭影院
+https://migu.ilovest.xyz/644368373
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",和美乡途轮播台
+https://migu.ilovest.xyz/713591450
+#EXTINF:-1 tvg-id="南方影视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/173/738/202304081513_2206173738_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",南方影视
+https://migu.ilovest.xyz/614961829
