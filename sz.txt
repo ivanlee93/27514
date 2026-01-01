@@ -5,6 +5,7 @@
 http://stlive.iepose.cn/st.php?id=st1
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
 http://stlive.iepose.cn/st.php?id=st2
+http://156.238.248.80/2099.php?id=837
 
 
 # 汕头线路二
