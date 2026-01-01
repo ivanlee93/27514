@@ -20,9 +20,6 @@ http://st2.ilovest.xyz/st.php?id=st1
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
 http://st2.ilovest.xyz/st.php?id=st2
 
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
-http://156.238.248.80/2099.php?id=837
-
 
 # 央视线路一
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV1综合
