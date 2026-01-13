@@ -21,6 +21,20 @@ http://st2.ilovest.xyz/st.php?id=st1
 http://st2.ilovest.xyz/st.php?id=st2
 
 
+# 汕头线路四
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头",汕头综合
+https://183.10.180.62:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
+https://183.10.180.62:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+# 汕头线路五
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" group-title="汕头",汕头综合
+https://183.10.180.70:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="汕头",汕头经济生活
+https://183.10.180.70:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+
+
 # 央视线路一
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视" http-user-agent="MGPlayer4Android/v9.49.0.3.28",CCTV1综合
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CCTV1综合
@@ -93,7 +107,6 @@ https://migu.ilovest.xyz/624878440
 https://migu.ilovest.xyz/673168223
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" group-title="央视",CCTV17农业农村
 https://migu.ilovest.xyz/673168256
-
 
 
 # 央视线路三
